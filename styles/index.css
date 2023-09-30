@@ -1,3 +1,29 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+img{
+    object-fit: cover;
+}
+
+ul{
+    list-style: initial;
+}
+
+.heroPost-container{
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+
+.heroPost-textsection{
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+}
+
+.intro-img{
+    height: 10em;
+    width: 10em;
+    object-fit: contain;
+}
