@@ -8,6 +8,7 @@ img{
 
 ul{
     list-style: initial;
+    list-style-position: inside;
 }
 
 .heroPost-container{
