@@ -7,7 +7,7 @@ author:
   name: Mariessa Pinto
   picture: '/assets/blog/authors/mariessa.png'
 ogImage:
-  url: '/assets/blog/week4/week4@2x.png'
+  url: '/assets/blog/week4/week4.png'
 ---
 
 After some final revisions, the Hifi prototype is on it's way to being complete. The team continues to progress and has started development.
