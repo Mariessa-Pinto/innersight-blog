@@ -9,6 +9,7 @@ img{
 ul{
     list-style: initial;
     list-style-position: inside;
+    padding-left: 30px;
 }
 
 .heroPost-container{
