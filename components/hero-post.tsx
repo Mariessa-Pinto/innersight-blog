@@ -28,7 +28,7 @@ const HeroPost = ({
       </div>
       <div className="heroPost-textsection">
         <div>
-          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight">
+          <h3 className="mb-4 text-4xl lg:text-5xl leading-tight blog-title">
             <Link
               as={`/posts/${slug}`}
               href="/posts/[slug]"
@@ -37,13 +37,13 @@ const HeroPost = ({
               {title}
             </Link>
           </h3>
-          <div className="mb-4 md:mb-0 text-lg">
-            <DateFormatter dateString={date} />
+          <div className="mb-4 md:mb-0 text-lg date">
+          <p>Written by {author.name}</p>
+          <p>Published <DateFormatter dateString={date} /></p>
           </div>
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
         </div>
       </div>
     </section>

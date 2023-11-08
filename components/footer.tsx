@@ -1,12 +1,14 @@
 import Container from './container'
 import { EXAMPLE_PATH } from '../lib/constants'
+import Link from 'next/link'
+
 
 const Footer = () => {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200">
+    <footer className="footer-bg">
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-    <p>InnerSight Blog</p>
+        <div className="footer-content">
+          <Link href="/"><img className='footer-img' src='/assets/blog/logo/footer-logo.png'></img></Link>
         </div>
       </Container>
     </footer>
