@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 img{
     object-fit: cover;
@@ -12,9 +13,16 @@ ul{
     padding-left: 30px;
 }
 
+.container {
+    width: 100%;
+    height: 100%;
+    margin:auto;
+}
+
 .heroPost-container{
     display: flex;
     flex-direction: row;
+    font-family: Lexend;
     gap: 2em;
 }
 
@@ -22,10 +30,177 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 2em;
+    font-family: Lexend;
+    font-weight: 400;
 }
 
 .intro-img{
-    height: 10em;
-    width: 10em;
+    height: 5em;
     object-fit: contain;
+    width: 100%;
+}
+
+.date {
+    font-family: Lexend;
+    font-weight: 400;
+    color: #88888B;
+}
+
+.blog-title {
+    font-family: Lexend;
+    font-weight:600;
+    color: #6163B7;
+}
+
+.older-blog-title {
+    font-family: Lexend;
+    font-weight: 800;
+    color: #3E3F41;
+}
+
+.excerpt {
+    font-family: Lexend; 
+    font-weight: 400;
+}
+
+.blog-img {
+    width: 50%;
+
+}
+
+.post-body {
+    font-family: Lexend;
+    color: #292929;
+}
+
+.author {
+    font-family: Lexend;
+    font-weight:400;
+}
+
+.author-name {
+    font-family: Lexend;
+    font-weight:400;
+    font-size: 15px;
+    color: #3E3F41;
+}
+
+.footer-name {
+    font-family: Lexend;
+}
+
+.footer-img {
+    width: 100%;
+    height: 100px;
+    object-fit:contain;
+    vertical-align:middle;
+}
+
+.header-links {
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.nav-links {
+    display: flex;
+    gap: 5em;
+    font-family: Lexend;
+    font-weight:500;
+    color: #52547F;
+    font-size: 18px;
+    align-items:center;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+}
+
+.teamContainer {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:3em;
+    height: 100vh;
+    width: 100%;
+    margin-bottom:4em;
+    align-items:center;
+}
+
+.teamContainer h3 {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Lexend;
+    color: #52547F;
+}
+
+.teamContainer p {
+    font-family: Lexend;
+    font-size: 15px;
+}
+
+.teamContainer h4 {
+    font-family: Lexend;
+    font-size: 17px;
+    color: #88888B;
+}
+
+
+.teammate-image img {
+    width: 150px;
+    height: 150px;
+    border-radius:100px;
+    object-fit:cover;
+}
+
+.teammate {
+    display:grid;
+    grid-template-columns: 30% 70%;
+}
+
+.footer-bg {
+    height: 200px;
+    background-color: #F2F2FB;
+    margin-left:0;
+}
+
+.title {
+    font-family: Lexend;
+    color: #292929;
+}
+
+.author-post-preview {
+    font-family: Lexend;
+    color: #88888B;
+}
+
+.date-post-preview {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-img img {
+    width: 100%;
+    height: 500px;
+}
+
+.about-app {
+    font-family: Lexend;
+    font-size: 15px;
+    margin-top:3em;
+    width: 80%;
+    margin:auto;
+    line-height: 2em;
+    margin-top:4em;
+}
+
+.about-app h2 {
+    font-size: 25px;
+    font-weight:500;
+    color: #52547F;
+    margin-bottom:1em;
+}
+
+.about-app p {
+    color: #292929;
+    margin-bottom: 3em;
 }
