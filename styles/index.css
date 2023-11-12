@@ -58,14 +58,14 @@ ul{
 .author-date {
     display:flex;
     flex-direction:column;
-    margin-left: 25em
+
 }
 
 .post-date {
     font-size: 15px;
     color: #3E3F41;
     margin-bottom:2em;
-    margin-left: 4.25em
+
 }
 
 .blog-author {
@@ -186,7 +186,6 @@ ul{
 
 .title {
     color: #292929;
-    margin-left: 10em;
 }
 
 .author-post-preview {
@@ -235,7 +234,16 @@ height: 100%
     justify-content: center;
 }
 
-/*Blog post remove margin under avatar/name*/
-.blog-author {
-margin-bottom: 1em !important
+
+
+/*Center align title, avatar, name, date*/
+.title, .post-date{
+    text-align: center !important;
+}
+
+.blog-author > div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
 }
