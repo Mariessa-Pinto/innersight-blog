@@ -3,6 +3,10 @@
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+body{
+    font-family: 'Lexend', sans-serif;
+}
+
 img{
     object-fit: cover;
 }
@@ -22,7 +26,6 @@ ul{
 .heroPost-container{
     display: flex;
     flex-direction: row;
-    font-family: Lexend;
     gap: 2em;
 }
 
@@ -30,7 +33,7 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 2em;
-    font-family: Lexend;
+
     font-weight: 400;
 }
 
@@ -41,13 +44,13 @@ ul{
 }
 
 .date {
-    font-family: Lexend;
+
     font-weight: 400;
     color: #88888B;
 }
 
 .blog-title {
-    font-family: Lexend;
+
     font-weight:600;
     color: #6163B7;
 }
@@ -55,13 +58,14 @@ ul{
 .author-date {
     display:flex;
     flex-direction:column;
+    margin-left: 25em
 }
 
 .post-date {
     font-size: 15px;
-    font-family: Lexend;
     color: #3E3F41;
     margin-bottom:2em;
+    margin-left: 4.25em
 }
 
 .blog-author {
@@ -69,7 +73,6 @@ ul{
 }
 
 .older-blog-title {
-    font-family: Lexend;
     font-weight: 800;
     color: #3E3F41;
 }
@@ -87,7 +90,6 @@ ul{
 }
 
 .excerpt {
-    font-family: Lexend; 
     font-weight: 400;
 }
 
@@ -97,24 +99,19 @@ ul{
 }
 
 .post-body {
-    font-family: Lexend;
     color: #292929;
 }
 
 .author {
-    font-family: Lexend;
     font-weight:400;
 }
 
 .author-name {
-    font-family: Lexend;
     font-weight:400;
     font-size: 15px;
     color: #3E3F41;
 }
-.footer-name {
-    font-family: Lexend;
-}
+
 
 .footer-img {
     width: 100%;
@@ -134,7 +131,6 @@ ul{
 .nav-links {
     display: flex;
     gap: 5em;
-    font-family: Lexend;
     font-weight:500;
     color: #52547F;
     font-size: 18px;
@@ -158,17 +154,14 @@ ul{
 .teamContainer h3 {
     font-size: 20px;
     font-weight: 500;
-    font-family: Lexend;
     color: #52547F;
 }
 
 .teamContainer p {
-    font-family: Lexend;
     font-size: 15px;
 }
 
 .teamContainer h4 {
-    font-family: Lexend;
     font-size: 17px;
     color: #88888B;
 }
@@ -192,12 +185,11 @@ ul{
 }
 
 .title {
-    font-family: Lexend;
     color: #292929;
+    margin-left: 10em;
 }
 
 .author-post-preview {
-    font-family: Lexend;
     color: #88888B;
 }
 
@@ -212,7 +204,6 @@ ul{
 }
 
 .about-app {
-    font-family: Lexend;
     font-size: 15px;
     margin-top:3em;
     width: 80%;
@@ -232,4 +223,19 @@ ul{
 .about-app p {
     color: #292929;
     margin-bottom: 3em;
+}
+
+.footer-content, .footer-container{
+height: 100%
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*Blog post remove margin under avatar/name*/
+.blog-author {
+margin-bottom: 1em !important
 }
