@@ -1,7 +1,7 @@
 ---
 title: 'Week 1 Progress Roundup'
 excerpt: 'We kicked off a very productive first week of our project! From September 18 to September 22, we scoped our project and finalized our thoughts from our journaling task to determine features and value to our app.'
-coverImage: '/assets/blog/preview/cover.jpg'
+coverImage: '/assets/blog/week1/week1.png'
 date: '2023-09-23T21:35:07.322Z'
 author:
   name: Glenda Cheung

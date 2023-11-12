@@ -26,7 +26,7 @@ Our devs were busy working on our AI sentiment feature which gave feedback based
 
 Breaking down our teams objectives for this week:
 
-### Complete the web suppliment, Brocure, Business cards 
+### Complete the web supplement, brochure, business cards 
 - Led by Glenda, assisted by Bri, Kyle and Lauryn.
 
 ### Create a rough cut using our footage from earlier this week

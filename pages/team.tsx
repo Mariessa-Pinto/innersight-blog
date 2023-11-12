@@ -40,7 +40,7 @@ export default function Team({ allPosts }: Props) {
                             <div className="teammate-info">
                                 <h3>Anika Grewal</h3>
                                 <h4>Project Manager & Developer</h4>
-                                <p>Mariessa is a front-end web developer and UX/UI designer. She designs and codes websites and apps for businesses and takes a special  interest in react and react-native. In her free time, she enjoys spending time with her dog, Auri.</p>
+                                <p>Anika is a front-end developer and UI/UX designer. Combining coding and design, she creates websites and app. In her free time, she enjoys spending time with her dogs and traveling to the island.</p>
                             </div>
                         </div>
                         <div className="teammate">
