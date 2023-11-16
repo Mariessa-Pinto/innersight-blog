@@ -1,13 +1,13 @@
 ---
 title: 'Week 2 Progress Roundup'
 excerpt: 'What a whirlwind of a week as InnerSight ramps up design production! Over the week, the team of InnerSight worked on various tasks to refine the app UI and UX design.'
-coverImage: '/assets/blog/week2/week2.jpeg'
+coverImage: '/assets/blog/week2/week2.png'
 date: '2023-09-30T21:35:07.322Z'
 author:
   name: Patricia Jiang
   picture: '/assets/blog/authors/patricia.png'
 ogImage:
-  url: '/assets/blog/week1/week2.png'
+  url: '/assets/blog/week2/week2.png'
 ---
 
 What a whirlwind of a week as InnerSight ramps up design production! Over the week, the team of InnerSight worked on various tasks to refine the app UI and UX design. 
@@ -30,20 +30,20 @@ On September 26th the team consulted with Henry Leung regarding InnerSight app d
 
 In the week ahead the team divided the following tasks to accomplish: 
 
-## UX/UI Design
-### Develop Journey Map
+## Design
+### Develop journey map
 - Led by Bri and Patricia
 - Supported by Glenda, Kyle, Lauryn
-### Develop User Personas
+### Develop user personas
 - Led by Anika and Mariessa
-### Find Figma Accessibility Plugin
+### Find Figma accessibility plugin
 - Led by Glenda
-### Begin Development on the App Style Guide
+### Begin development on the app style guide
 - Led by Glenda, Lauryn, and Kyle
 ### Continue Revision of the Lofi Design
 - Led by Glenda, Lauryn, and Kyle
-## Coding
-### Create Expo Base Template (colour themes, research accessibility features)
+## Development
+### Create Expo base template (colour themes, research accessibility features)
 - Led by Patricia
 
 That’s all for now. See you next week!

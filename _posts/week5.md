@@ -10,11 +10,11 @@ ogImage:
   url: '/assets/blog/week5/week5.png'
 ---
 
-The Hifi prototype has been completed, and the team is now forging ahead with their development prototype for next week. 
+The hi-fi prototype has been completed, and the team is now forging ahead with their development prototype for next week. 
 
-The team began the week with a sprint day on October 16th, where a majority of the atoms was completed. The design team has successfully finished their prototype and has begun working on creating the demo animation, finalizing graphics, and editing the Web Supplement prototype. The demo animation is cruical as it is the first introduction and experience the user will have with InnerSight when they first go on to the app before having to sign up/login. Graphics will be used throughout the app in areas such as the recommendation pages. These graphics will involve the 4 different mascots in various scenarios including  sleep, exercise, and practicing self-care.
+The team began the week with a sprint day on October 16th, where a majority of the atoms was completed. The design team has successfully finished their prototype and has begun working on creating the demo animation, finalizing graphics, and editing the web supplement prototype. The demo animation is cruical as it is the first introduction and experience the user will have with InnerSight when they first go on to the app before having to sign up/login. Graphics will be used throughout the app in areas such as the recommendation pages. These graphics will involve the 4 different mascots in various scenarios including  sleep, exercise, and practicing self-care.
 
-Throughout the week, the developers will maintain their sprint momentum to ensure they are ready for next Tuesday for the Midterm Presentation. Developers will wrap up creating the atoms and build them into molecules. From there they can then be imported into their designated page. Navigation is the main priortization as full functionality will be implemented following the Midterm. Hard-coded data will be integrated to ensure clarity for both the team and anyone reviewing the progress and prototype.  
+Throughout the week, the developers will maintain their sprint momentum to ensure they are ready for next Tuesday for the midterm presentation. Developers will wrap up creating the atoms and build them into molecules. From there they can then be imported into their designated page. Navigation is the main priortization as full functionality will be implemented following the midterm. Hard-coded data will be integrated to ensure clarity for both the team and anyone reviewing the progress and prototype.  
  
 
 After the Team's meeting, the next steps were as follows:
@@ -25,17 +25,17 @@ After the Team's meeting, the next steps were as follows:
 
 The team's objectives for the following week are as follows:
 
-## UX/UI Design
-### Create the Demo animation 
+## Design
+### Create the demo animation 
 - Led by Glenda
-### Editing Web Supplement
+### Editing web supplement
 - Led by Kyle
-### Illustrate graphical assets for the app
+### Illustrate graphic assets for the app
 - Led by Lauryn
-## Coding
-### Finalizing Atoms and Molecules and developing pages
+## Development
+### Finalizing atoms and molecules and developing pages
 - Led by Anika
-### Finalizing Global Styles and developing pages
+### Finalizing global styles and developing pages
 - Led by Patricia
 ### Developing pages
 - Led by Bri and Mariessa

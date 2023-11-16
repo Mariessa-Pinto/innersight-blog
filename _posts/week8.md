@@ -16,7 +16,7 @@ We presented our first sprint of four this week to Henry, which was debugging ou
 
 The team's objectives for this week was as follows:
 
-## Design Team
+## Design
 ### Complete animations for application, including logo animations, demo page animations, mascot animations, and background animations
 - Led by Glenda, Kyle and Lauryn
 - Glenda to complete logo and demo page animations 
@@ -29,7 +29,7 @@ The team's objectives for this week was as follows:
 ### Add animations to Visual Story commercial
 - Lauryn and Kyle to use After Effects to help with animating the panda in certain scenes and adding message pop ups
 
-## Coding
+## Development
 ### Code functionality and debugging 
 - Mariessa, Patricia and Anika are all the main developers for functionality
 ### Customer landing page 
