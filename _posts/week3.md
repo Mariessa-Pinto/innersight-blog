@@ -10,29 +10,29 @@ ogImage:
   url: '/assets/blog/week3/week3.png'
 ---
 
-After much revisions and consultations were held, InnerSight is on its way to solidifying its final design. Everyone is working hard to refine and research more into the app's final UX and UI.
+After many revisions and consultations were held, InnerSight is on its way to solidifying its final design. Everyone is working hard to refine and research more into the app's final UX and UI.
 
-After the the september 26th consultation with Henry Leung, the InnerSight design team focused their efforts on re-aligning the low-fi design revisions to meet Innersight's core values. The designs were then reviewed by the entire team and pages of each designer's mock-ups were used to create the final low-fideltity design agreed upon by the InnerSight team. Meanwhile, the Development team worked hard on starting the set up for the app's light and dark mode settings and researching deeper into AI learning and usability plugins. Eventually, the team settled on using the usability plugins Stark and A11y. Additionally, the team also completed the InnerSight's User Journey map and user personas respectively (primary and secondary).
+After the the September 26th consultation with Henry, the InnerSight design team focused their efforts on re-aligning the lo-fi design revisions to meet InnerSight's core values. The designs were then reviewed by the entire team and pages of each designer's mock-ups were used to create the final low-fideltity design agreed upon by the InnerSight team. Meanwhile, the development team worked hard on starting the set up for the app's light and dark mode settings and researching deeper into AI learning and usability plugins. Eventually, the team settled on using the usability plugins Stark and A11y. Additionally, the team also completed the InnerSight's User Journey map and user personas respectively (primary and secondary).
 
-On October 3rd the InnerSight team reconviened with Henry to discuss the team's progress. the team's next steps after the consultation was as follows:
-- Finish deciding on InnerSights color theme (temporary)
+On October 3rd the InnerSight team reconvened with Henry to discuss the team's progress. The team's next steps after the consultation was as follows:
+- Finish deciding on InnerSights colour theme (temporary)
 - Start working on the high-fidelity prototype
-- split the design team into two parts: hi-fi sprinters and acessibility designers
-- start setting up the app's page templates, light and dark mode settings, and import in the global colors
+- Split the design team into two parts: hi-fi sprinter and acessibility designers
+- Start setting up the app's page templates, light and dark mode settings, and import in the global colours
 
-Furthermore, Henry suggested the team look more into a sentiment analysis focused plugin Eden and implement new coding techniques to the app's code (lambda). Based on this new information the team's objectives will be divided as follows:
+Furthermore, Henry suggested the team look more into a sentiment analysis focused plugin Eden and implement new coding techniques to the app's code (lambda). Based on this new information, the team's objectives will be divided as follows:
 
-## UX/UI Design
-### Start Hi-fi sprinting
-- Led by Glenda
-### Create Accesibility Variants
-- Led by Kyle, Lauryn, Patricia and Bri
-### Begin Development on the App Style Guide
+## Design
+### Start hi-fi sprinting
+- Completed by Glenda
+### Create accesibility variants
+- Led by Glenda, Kyle, Lauryn, Patricia and Bri
+### Begin development on the app style guide
 - Led by Anika and Mariessa
-## Coding
-### Add Templates To All Pages
+## Development
+### Add templates to all pages
 - Led by Mariessa and Anika
-### Add In Color Themes and Fonts
+### Add in colour themes and fonts
 - Led by Patricia
 
 Thanks for tuning in. See you next week!

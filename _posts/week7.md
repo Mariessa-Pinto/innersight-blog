@@ -10,13 +10,13 @@ ogImage:
   url: '/assets/blog/week7/week7.png'
 ---
 
-This week started off with all of the team getting shots together to make our short visual story advertisement to hype up Innersight! We had a fun-filled time getting all the filming done, and it was a great team bonding experience.
+This week started off with all of the team getting shots together to make our short visual story advertisement to hype up InnerSight! We had a fun-filled time getting all the filming done, and it was a great team bonding experience.
 
 After filming finished, the dev team went hard at work sprinting out potential features for Innersight's final version and overall debugging the app.
 
 The design team was focusing on finishing up some of the marketing material such as business cards and the web supplement to intertwine with our application.
 
-Glenda redid our logo and word mark to better fit our app's change in aesthetic and design. She decided to make it resemble a folded open book to better reflect the journal aspect of Innersight.
+Glenda redid our logo and word mark to better fit our app's change in aesthetic and design. She decided to make it resemble a folded open book to better reflect the journal aspect of InnerSight.
 
 Lauryn is busy this week cutting together the film footage, and eventually, she will go on to add our mascots into the film via After Effects.
 
