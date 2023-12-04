@@ -29,6 +29,12 @@ module.exports = {
         sm: '0 5px 10px rgba(0, 0, 0, 0.12)',
         md: '0 8px 30px rgba(0, 0, 0, 0.12)',
       },
+      screens: {
+        'sm': '480px',  // Example small screen size
+        'md': '768px',  // Example medium screen size
+        'lg': '1024px', // Example large screen size
+        'xl': '1280px', // Example extra-large screen size
+      }
     },
   },
   plugins: [],
