@@ -247,3 +247,52 @@ height: 100%
     justify-content: center;
 
 }
+
+@media screen and (max-width: 768px) {
+    .header-links {
+        display:flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+    }
+    
+    .nav-links {
+        display: flex;
+        flex-direction: row;
+        gap: 5em;
+        font-weight:500;
+        color: #52547F;
+        font-size: 18px;
+        align-items:center;
+       justify-content: center;
+    }
+
+    .teamContainer {
+        display: flex;
+        flex-direction: column;
+        gap:5em;
+        height: 160vh;
+        width: 100%;
+        margin-bottom:4em;
+        align-items:center;
+    }
+    
+    .teamContainer h3 {
+        font-size: 20px;
+        font-weight: 500;
+        color: #52547F;
+    }
+    
+    .teamContainer p {
+        font-size: 15px;
+    }
+    
+    .teamContainer h4 {
+        font-size: 17px;
+        color: #88888B;
+    }
+    .teammate {
+        display:grid;
+        grid-template-columns: 40% 60%;
+    }
+}
